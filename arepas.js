@@ -1,0 +1,1 @@
+console.log("son tipicas de venezuela")
