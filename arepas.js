@@ -1,2 +1,3 @@
 //comentario 3
-console.log("son tipicas de venezuela")
+let tiposDeArepas = "carne, pollo,queso"
+console.log(`son tipicas de venezuela y vienen de ${tiposDeArepas}`)
